@@ -1,0 +1,6 @@
+module Pods_SpeedySpanish {
+  umbrella header "Pods-SpeedySpanish-umbrella.h"
+
+  export *
+  module * { export * }
+}
