@@ -1,7 +1,7 @@
 # Speedy Spanish
 
 
-![Speedy Spanish app images](https://annaexplores.com/static/media/spanish-app.gif)
+![Speedy Spanish app images](https://annaexplores.com/static/media/spanish-app.020daffc.gif)
 
 ## Overview
 SpeedySpanish is a React Native-built mobile app featuring two types of drills I deemed, from personal experience, to be important for beginner learners of Spanish.
